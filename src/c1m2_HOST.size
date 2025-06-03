@@ -1,0 +1,35 @@
+c1m2.out  :
+section              size      addr
+.interp                28       568
+.note.ABI-tag          32       596
+.note.gnu.build-id     36       628
+.gnu.hash              28       664
+.dynsym               168       696
+.dynstr               133       864
+.gnu.version           14       998
+.gnu.version_r         32      1016
+.rela.dyn             192      1048
+.rela.plt              24      1240
+.init                  23      1264
+.plt                   32      1296
+.plt.got                8      1328
+.text                 930      1344
+.fini                   9      2276
+.rodata                 4      2288
+.eh_frame_hdr         100      2292
+.eh_frame             424      2392
+.init_array             8   2100664
+.fini_array             8   2100672
+.dynamic              496   2100680
+.got                   72   2101176
+.data                  16   2101248
+.bss                   24   2101264
+.comment               41         0
+.debug_aranges         96         0
+.debug_info          1203         0
+.debug_abbrev         424         0
+.debug_line           332         0
+.debug_str            743         0
+Total                5680
+
+
